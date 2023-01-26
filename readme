@@ -1,0 +1,10 @@
+This is a light weight stock trading simulation. 
+It is light weight sicne this time I did not use database, 
+instead I used a simple CSV file to store user data and stcok data.
+
+You are able to buy,sell, deposit, check portfolio. Once one buys stock, 
+it updates the share count both on the market side and user side. 
+Once there is a transaction, either sell or buy, 
+the market adjusts itself and raises or decreases in price. 
+
+THe purpose of this project was to pracitice backend OOP development with Java.
