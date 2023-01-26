@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------
+Test set: com.stockmarket.AppTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 13, Skipped: 0, Time elapsed: 0.248 s <<< FAILURE! - in com.stockmarket.AppTest
+checkSaveTrader(com.stockmarket.AppTest)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+checkCreateStock(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+shouldAnswerWithTrue(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+checkPassword(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+checkBuyStockCheck(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+checkValidateHashedPassword(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+checkUpdateShareCountIncrease(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+checkUpdateShareCountDecrease(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+checkToString(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+checkReadTrader(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+checkUpdateStockPriceIncrease(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+checkAddNewStockToDataBase(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
+checkUpdateStockPriceDecrease(com.stockmarket.AppTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: The stock: Bitcoin doesnt exists!
+	at com.stockmarket.AppTest.<init>(AppTest.java:21)
+
